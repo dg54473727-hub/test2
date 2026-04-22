@@ -1,24 +1,7 @@
 import { Children } from "react";
 import SongInfoPage from "./pages/songPage";
 
-export default function routes() {
-  const SongRoutes = {
-    path: "songs",
-    element: <songs />,
-    Children: [
-      {
-        path: "kuuninaru",
-        element: (
-          <SongInfoPage
-          name = "くうになる"
-            img="https://i.ytimg.com/vi/f6TytcA47rI/hq720.jpg"
-            link="/songs/kuuninaru"
-          />
-        ),
-      },
-    ],
-  };
-}
+
 //  <SongCard
 //             name="くうになる"
 //             img="https://i.ytimg.com/vi/f6TytcA47rI/hq720.jpg"

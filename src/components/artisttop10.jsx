@@ -100,8 +100,8 @@ function ArtistTop10() {
           />
         </div>
       </div>
-      console.log(mikucount)
     </>
+    
   );
 }
 export default ArtistTop10;
