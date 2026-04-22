@@ -1,5 +1,5 @@
 import SongCard from "./songcard";
-import routes from "../routes";
+// import routes from "../routes";
 
 export default function SongTop10() {
   return (
