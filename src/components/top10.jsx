@@ -9,7 +9,6 @@ function Top10() {
           <CardProgram
             name="ハロ/ハワユ"
             img="https://i.ytimg.com/vi/-M4sAQYi6r4/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhFIGUoXzAP&rs=AOn4CLBvLGLU3yNf9naeoblGIoXWXP3owQ"
-            link="https://www.youtube.com/watch?v=-M4sAQYi6r4"
             artist="Nanou"
             eng="Hello/How are you"
           />
@@ -24,14 +23,14 @@ function Top10() {
           <CardProgram
             name="あいつら全員同窓会"
             img="https://i.ytimg.com/vi/ZUwaudw8ht0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADog3_QjQGyPjylgm2Lz8CdPMTkw"
-            link="https://www.youtube.com/watch?v=ZUwaudw8ht0"
+            link="/songs/aiturazenindoushouka"
             eng="Inside Joke"
             artist="Zutomayo/ずっと真夜中でいいのに"
           />
           <CardProgram
             name="泥の分際で私の大切を奪おうでなんて"
             img="https://i.ytimg.com/vi_webp/M7FH1dL51oU/maxresdefault.webp"
-            link="https://www.youtube.com/watch?v=M7FH1dL51oU"
+            link="/songs/kuuninaru"
             eng="Being low as dirt, taking what's important from me"
             artist="Tuyu/ツユ"
           />
