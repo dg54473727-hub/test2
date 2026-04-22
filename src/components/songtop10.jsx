@@ -10,14 +10,14 @@ export default function SongTop10() {
           <SongCard
             name="ハロ/ハワユ"
             img="https://i.ytimg.com/vi/-M4sAQYi6r4/hqdefault.jpg"
-            link="/songs/helohowareyou"
+            // link="/songs/helohowareyou"
             artist="Nanou"
             eng="Hello/How are you"
           />
           <SongCard
             name="くうになる"
             img="https://i.ytimg.com/vi/f6TytcA47rI/hq720.jpg"
-            link="/songs/kuuninaru"
+            // link="/songs/kuuninaru"
             eng="Becoming Empty"
             artist="MIMI"
             artistimg="https://yt3.googleusercontent.com/ytc/AIdro_l4OX9vLQEk_TYhJhkefP5QVN38gYAsC0RW7tjXR2ayJn0"
@@ -26,7 +26,7 @@ export default function SongTop10() {
           <SongCard
             name="あいつら全員同窓会"
             img="https://i.ytimg.com/vi/ZUwaudw8ht0/hq720.jpg"
-            link="/songs/aiturazenindoushoukai"
+            // link="/songs/aiturazenindoushoukai"
             eng="Inside Joke"
             artist="Zutomayo/ずっと真夜中でいいのに"
             artistlink="https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ"
