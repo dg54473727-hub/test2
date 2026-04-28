@@ -2,7 +2,7 @@ export default function SongDetail(props) {
   return (
     <>
       <div className="p-10 flex justify-center">
-        <div className="w-4/5 bg-[#363636] ">
+        <div className="w-4/5 h-max bg-[#363636] ">
           <img
             src={props.img}
             alt={props.name}
